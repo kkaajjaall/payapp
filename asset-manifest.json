@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/payapp/static/css/main.13595d51.chunk.css",
+    "main.js": "/payapp/static/js/main.94007947.chunk.js",
+    "main.js.map": "/payapp/static/js/main.94007947.chunk.js.map",
+    "runtime-main.js": "/payapp/static/js/runtime-main.a1ae0e6c.js",
+    "runtime-main.js.map": "/payapp/static/js/runtime-main.a1ae0e6c.js.map",
+    "static/js/2.aa134536.chunk.js": "/payapp/static/js/2.aa134536.chunk.js",
+    "static/js/2.aa134536.chunk.js.map": "/payapp/static/js/2.aa134536.chunk.js.map",
+    "index.html": "/payapp/index.html",
+    "static/css/main.13595d51.chunk.css.map": "/payapp/static/css/main.13595d51.chunk.css.map",
+    "static/js/2.aa134536.chunk.js.LICENSE.txt": "/payapp/static/js/2.aa134536.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1ae0e6c.js",
+    "static/js/2.aa134536.chunk.js",
+    "static/css/main.13595d51.chunk.css",
+    "static/js/main.94007947.chunk.js"
+  ]
+}
